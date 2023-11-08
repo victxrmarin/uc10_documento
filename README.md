@@ -27,4 +27,23 @@ Colocar o numero e a informação:
 
 - [x] Tarefa
 - [ ] Tarefa pendente
-          
+
+[Pagina 2](pagina.md)
+
+Notas de rodapé
+
+Exemplo[^1]
+
+[^1]: Exemplo: coisa usada para exemplificar.
+
+
+> [!NOTE]
+> uau
+
+
+> [!IMPORTANT]
+> tomale caganeira
+
+
+> [!WARNING]
+> cuidado linguiço
