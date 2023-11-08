@@ -24,4 +24,7 @@ Colocar o numero e a informação:
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+- [x] Tarefa
+- [ ] Tarefa pendente
           
